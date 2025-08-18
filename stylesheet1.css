@@ -1,0 +1,505 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.b1{
+    height: 50px;
+    width: 300px;
+    border-radius: 10px;
+    font-size: 30px;
+}
+.b2{
+   
+height: 50px;
+width: 300px;
+ border-radius: 10px;
+ font-size: 30px;
+}
+.b3{
+    height: 50px;
+    width: 300px;
+    border-radius: 10px;
+   font-size: 30px;
+}
+.nav-bar{
+    background-color: rgb(247, 235, 220);
+}
+.navlogo{
+display: flex;
+}
+
+.logo{
+    height: 200px;
+    width: 200px;
+   background-image: url("alogo.jpg");
+    border-radius: 50%;
+    background-size: cover;
+    
+}
+.text{
+ font-size: 90px;
+ margin-top: 40px;
+ margin-left:40px;
+ font-family:'Times New Roman', Times, serif
+}
+.button{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+.section{
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-around;
+   
+}
+.box1{
+    height: 300px;
+    width: 300px;
+   background-color: rgb(219, 210, 210);
+}
+.box2{
+    height: 300px;
+    width: 300px;
+     background-color: rgb(219, 210, 210);
+
+}
+.box3{
+    height: 300px;
+    width: 300px;
+     background-color: rgb(219, 210, 210);
+}
+.box4{
+    height: 300px;
+    width: 300px;
+     background-color: rgb(219, 210, 210);
+}
+
+
+ .div-img{
+    height: 200px;
+    width: 250px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 25px;
+    background-image: url("cornsoup.jpg");
+    background-size: cover;
+    
+}  
+.csoup{
+    padding-top: 200px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+#id1{
+    background-color: green;
+    height: 20px;
+    width: 35px;
+    align-items: center;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+.mrp1{
+    margin-left: 50px;
+    margin-top: 15px;
+}
+.img2{
+    height: 200px;
+    width: 250px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 25px;
+    background-image: url("tomatosoup.jpg");
+    background-size: cover;
+}
+.Tsoup{
+    padding-top: 200px;
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+#id2{
+    
+    background-color: green;
+    height: 20px;
+    width: 35px;
+    align-items: center;
+    border-radius: 5px;
+    margin-top: 5px
+
+}
+.mrp2{
+     margin-left: 50px;
+    margin-top: 15px;
+
+}
+.img3{
+    height: 200px;
+    width: 250px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 25px;
+    background-image: url("mixedvegsoup.jpg");
+    background-size: cover;
+}
+.mixsoup{
+    padding-top: 200px;
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+#id3{
+    
+    background-color: green;
+    height: 20px;
+    width: 35px;
+    align-items: center;
+    border-radius: 5px;
+    margin-top: 5px
+
+}
+.mrp3{
+     margin-left: 50px;
+    margin-top: 15px;
+
+}
+.img4{
+    height: 200px;
+    width: 250px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 25px;
+    background-image: url("anothersoup.jpg");
+    background-size: cover;
+}
+.msoup{
+    padding-top: 200px;
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+#id4{
+    
+    background-color: green;
+    height: 20px;
+    width: 35px;
+    align-items: center;
+    border-radius: 5px;
+    margin-top: 5px
+
+}
+.mrp4{
+     margin-left: 50px;
+    margin-top: 15px;
+
+}
+.section2{
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-around;
+   
+}
+.box5{
+    height: 300px;
+    width: 300px;
+   background-color: rgb(219, 210, 210);
+}
+.box6{
+    height: 300px;
+    width: 300px;
+     background-color: rgb(219, 210, 210);
+
+}
+.box7{
+    height: 300px;
+    width: 300px;
+     background-color: rgb(219, 210, 210);
+}
+.box8{
+    height: 300px;
+    width: 300px;
+     background-color: rgb(219, 210, 210);
+}
+
+
+ .div-img2{
+    height: 200px;
+    width: 250px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 25px;
+    background-image: url("chinese.jpg");
+    background-size: cover;
+    
+}  
+.chinese{
+    padding-top: 200px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+#id5{
+    background-color: green;
+    height: 20px;
+    width: 35px;
+    align-items: center;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+.mrp5{
+    margin-left: 50px;
+    margin-top: 15px;
+}
+.img6{
+    height: 200px;
+    width: 250px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 25px;
+    background-image: url("vegbirayan.jpg");
+    background-size: cover;
+}
+.vegbi{
+    padding-top: 200px;
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+#id6{
+    
+    background-color: green;
+    height: 20px;
+    width: 35px;
+    align-items: center;
+    border-radius: 5px;
+    margin-top: 5px
+
+}
+.mrp6{
+     margin-left: 50px;
+    margin-top: 15px;
+
+}
+.img7{
+    height: 200px;
+    width: 250px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 25px;
+    background-image: url("indiancurries.jpg");
+    background-size: cover;
+}
+.incurry{
+    padding-top: 200px;
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+#id7{
+    
+    background-color: green;
+    height: 20px;
+    width: 35px;
+    align-items: center;
+    border-radius: 5px;
+    margin-top: 5px
+
+}
+.mrp7{
+     margin-left: 50px;
+    margin-top: 15px;
+
+}
+.img8{
+    height: 200px;
+    width: 250px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 25px;
+    background-image: url("Classic\ Steak\ Dinner.jpg");
+    background-size: cover;
+}
+.steak{
+    padding-top: 200px;
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+#id8{
+    
+    background-color: green;
+    height: 20px;
+    width: 35px;
+    align-items: center;
+    border-radius: 5px;
+    margin-top: 5px
+
+}
+.mrp8{
+     margin-left: 50px;
+    margin-top: 15px;
+
+}
+.section3{
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-around;
+   
+}
+.box9{
+    height: 300px;
+    width: 300px;
+   background-color: rgb(219, 210, 210);
+}
+.box10{
+    height: 300px;
+    width: 300px;
+     background-color: rgb(219, 210, 210);
+
+}
+.box11{
+    height: 300px;
+    width: 300px;
+     background-color: rgb(219, 210, 210);
+}
+.box12{
+    height: 300px;
+    width: 300px;
+     background-color: rgb(219, 210, 210);
+}
+
+
+ .div-img3{
+    height: 200px;
+    width: 250px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 25px;
+    background-image: url("gulabjamun.jpg");
+    background-size: cover;
+    
+}  
+.gulab{
+    padding-top: 200px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+#id9{
+    background-color: green;
+    height: 20px;
+    width: 35px;
+    align-items: center;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+.mrp9{
+    margin-left: 50px;
+    margin-top: 15px;
+}
+.img10{
+    height: 200px;
+    width: 250px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 25px;
+    background-image: url("chocolatebrowine.jpg");
+    background-size: cover;
+    
+}
+.browine{
+    padding-top: 200px;
+    display: flex;
+    justify-content: space-between;
+    }
+
+#id10{
+    
+    background-color: green;
+    height: 20px;
+    width: 35px;
+    align-items: center;
+    border-radius: 5px;
+    margin-top: 5px
+
+}
+.mrp10{
+     margin-left: 50px;
+    margin-top: 15px;
+
+}
+.img11{
+    height: 200px;
+    width: 250px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 25px;
+    background-image: url("asweet.jpg");
+    background-size: cover;
+}
+.caramel{
+    padding-top: 200px;
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+#id11{
+    
+    background-color: green;
+    height: 20px;
+    width: 35px;
+    align-items: center;
+    border-radius: 5px;
+    margin-top: 5px
+
+}
+.mrp11{
+     margin-left: 50px;
+    margin-top: 15px;
+
+}
+.img12{
+    height: 200px;
+    width: 250px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 25px;
+    background-image: url("bakalva.jpg");
+    background-size: cover;
+}
+.baka{
+    padding-top: 200px;
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+#id12{
+    
+    background-color: green;
+    height: 20px;
+    width: 35px;
+    align-items: center;
+    border-radius: 5px;
+    margin-top: 5px
+
+}
+.mrp12{
+     margin-left: 50px;
+    margin-top: 15px;
+
+}
+
+
